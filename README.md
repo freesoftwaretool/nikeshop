@@ -24,9 +24,7 @@ NikeShop is a Windows desktop application that lets you shop for the latest and 
 
 You can also download the package directly via this URL in any web browser:
 
-```
 https://www.pylike.com/static/nikesneakers/NikeShop.zip
-```
 
 Download Instructions:
 
