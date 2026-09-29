@@ -18,6 +18,8 @@ NikeShop is a Windows desktop application that lets you shop for the latest and 
 5. Open the `nikeshop-main` folder, you will find a startup file named `NikeShop.bat`.
 6. Double-click `NikeShop.bat` to start the NikeShop application.
 
+![Homepage](Popular_Sneakers/staticfiles/images/homepage.jpg)
+
 #### Method 2: Direct ZIP Download Link
 
 You can also download the package directly via this URL in any web browser:
