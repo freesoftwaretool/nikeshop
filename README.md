@@ -9,7 +9,7 @@ NikeShop is a Windows desktop application that lets you shop for the latest and 
 
 ### Download Methods
 
-#### Method 1: Download from GitHub
+#### Method: Download from GitHub
 
 1. Navigate to this GitHub repository page (https://github.com/freesoftwaretool/nikeshop).
 2. Click the **Code** button.
@@ -19,18 +19,6 @@ NikeShop is a Windows desktop application that lets you shop for the latest and 
 6. Double-click `NikeShop.bat` to start the NikeShop application.
 
 ![Homepage](Popular_Sneakers/staticfiles/images/homepage.jpg)
-
-#### Method 2: Direct ZIP Download Link
-
-You can also download the package directly via this URL in any web browser:
-
-https://www.pylike.com/static/nikesneakers/NikeShop.zip
-
-Download Instructions:
-
-1. Paste the link into your browser address bar and press Enter.
-2. Your browser may prompt you to save the file. Click **Save**.
-3. The file will be saved to your browser's default Downloads folder.
 
 ### Launch NikeShop
 
